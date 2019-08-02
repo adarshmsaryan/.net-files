@@ -1,0 +1,10 @@
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\bin\Debug\EmployeeConsoleClient.exe.config
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\bin\Debug\EmployeeConsoleClient.exe
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\bin\Debug\EmployeeConsoleClient.pdb
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\bin\Debug\EmployeeDAllib.dll
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\bin\Debug\EmployeeDAllib.pdb
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\obj\Debug\EmployeeConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\obj\Debug\EmployeeConsoleClient.exe
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\obj\Debug\EmployeeConsoleClient.pdb
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\bin\Debug\EmployeeDALLib2.dll
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\EmployeeConsoleClient\bin\Debug\EmployeeDALLib2.pdb

@@ -1,0 +1,8 @@
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\bin\Debug\Bookinfo.exe.config
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\bin\Debug\Bookinfo.exe
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\bin\Debug\Bookinfo.pdb
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\bin\Debug\Bookdetails.dll
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\bin\Debug\Bookdetails.pdb
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\obj\Debug\Bookinfo.csprojResolveAssemblyReference.cache
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\obj\Debug\Bookinfo.exe
+C:\Users\Adarsha.MS\Documents\Visual Studio 2015\Projects\valtechsolution\ADOprjs\Bookinfo\obj\Debug\Bookinfo.pdb

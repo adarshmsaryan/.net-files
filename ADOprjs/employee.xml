@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE employees SYSTEM "employee.dtd">
+<employees>
+<employee pid="1">
+  <ecode>101</ecode>
+  <ename>adarsh</ename>
+  <salary>10000</salary>
+  <deptid>201</deptid>
+</employee>
+  
+<employee pid="2">
+  <ecode>102</ecode>
+  <ename>adar</ename>
+  <salary>10000</salary>
+  <deptid>201</deptid>
+</employee>
+   
+<employee pid="3">
+  <ecode>103</ecode>
+  <ename>adah</ename>
+  <salary>10000</salary>
+  <deptid>201</deptid>
+</employee>
+   
+<employee pid="4">
+  <ecode>104</ecode>
+  <ename>adah</ename>
+  <salary>10000</salary>
+  <deptid>201</deptid>
+</employee>
+</employees>
+ 
